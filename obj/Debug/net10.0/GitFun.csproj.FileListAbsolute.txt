@@ -1,0 +1,14 @@
+/Users/bailiewhetten/RiderProjects/GitFun/bin/Debug/net10.0/GitFun
+/Users/bailiewhetten/RiderProjects/GitFun/bin/Debug/net10.0/GitFun.deps.json
+/Users/bailiewhetten/RiderProjects/GitFun/bin/Debug/net10.0/GitFun.runtimeconfig.json
+/Users/bailiewhetten/RiderProjects/GitFun/bin/Debug/net10.0/GitFun.dll
+/Users/bailiewhetten/RiderProjects/GitFun/bin/Debug/net10.0/GitFun.pdb
+/Users/bailiewhetten/RiderProjects/GitFun/obj/Debug/net10.0/GitFun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bailiewhetten/RiderProjects/GitFun/obj/Debug/net10.0/GitFun.AssemblyInfoInputs.cache
+/Users/bailiewhetten/RiderProjects/GitFun/obj/Debug/net10.0/GitFun.AssemblyInfo.cs
+/Users/bailiewhetten/RiderProjects/GitFun/obj/Debug/net10.0/GitFun.csproj.CoreCompileInputs.cache
+/Users/bailiewhetten/RiderProjects/GitFun/obj/Debug/net10.0/GitFun.dll
+/Users/bailiewhetten/RiderProjects/GitFun/obj/Debug/net10.0/refint/GitFun.dll
+/Users/bailiewhetten/RiderProjects/GitFun/obj/Debug/net10.0/GitFun.pdb
+/Users/bailiewhetten/RiderProjects/GitFun/obj/Debug/net10.0/GitFun.genruntimeconfig.cache
+/Users/bailiewhetten/RiderProjects/GitFun/obj/Debug/net10.0/ref/GitFun.dll
